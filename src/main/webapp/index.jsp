@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Teeste Ok
+	<h1>Home texto</h1>
 </body>
 </html>
